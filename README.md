@@ -1,2 +1,2 @@
 # NextAuth
-Next JS Authentication Sign in
+NextJS Authentication
